@@ -1,4 +1,4 @@
-# Get Papers List(Aganiths_Intern_task)
+# Get Papers List(Aganitha_Intern_task)
 
 This project fetches research papers from PubMed based on a query, filters out non-academic authors, and generates a CSV file with relevant details. 
 
