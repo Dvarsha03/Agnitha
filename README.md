@@ -1,4 +1,4 @@
-# Get Papers List(Aganiths_Intern_task)
+# Get Papers List(Aganitha_Intern_task)
 
 This project fetches research papers from PubMed based on a query, filters out non-academic authors, and generates a CSV file with relevant details. 
 
@@ -45,14 +45,6 @@ project/
 2. Example:
    ```bash
    poetry run python3 scripts/get_papers_list.py "cancer treatment" -f results.csv -d
-
-3. Alternatively, download and run the script manually:
-   - Navigate to the PyPI page for the package. [Link:](https://pypi.org/project/aganitha-intern-task/)
-   - Download the source distribution or wheel file.
-   - Extract the contents if necessary, then run the script:
-     ```bash
-     python -m pubmed_csv_extractor "cancer research" -f "pubmed_data.csv" -d
-     ```
 
 ## Output Format
 The generated CSV file will have the following columns:
